@@ -1,0 +1,45 @@
+
+.style{
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    
+}
+/* body{
+    background-color: rgb(218, 221, 221);
+} */
+.head{
+    display: flex;
+    justify-content: center;
+    
+}
+.but{
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+
+}
+ul{
+
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    font-size: x-large;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(24, 172, 209);
+}
+ body{
+    background-image: url(https://img.freepik.com/free-photo/misurina-sunset_181624-34793.jpg?t=st=1744369253~exp=1744372853~hmac=6078504104017e2d5e970e9190ff6cc8abc233685381e7d08ef182a85488b26a&w=996);
+ }
+
+
+    
+    
+
+
+
+
