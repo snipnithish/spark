@@ -1,0 +1,43 @@
+
+.style{
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    
+}
+body{
+    background-color: rgb(218, 221, 221);
+}
+.head{
+    display: flex;
+    justify-content: center;
+    
+}
+.but{
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+
+}
+ul{
+
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    font-size: x-large;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(24, 172, 209);
+}
+
+
+
+    
+    
+
+
+
+
