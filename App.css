@@ -34,7 +34,19 @@ a{
 }
  body{
     background-image: url(https://img.freepik.com/free-photo/misurina-sunset_181624-34793.jpg?t=st=1744369253~exp=1744372853~hmac=6078504104017e2d5e970e9190ff6cc8abc233685381e7d08ef182a85488b26a&w=996);
- }
+  background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   color: azure;
+   
+
+
+
+
+
+}
+
 
 
     
